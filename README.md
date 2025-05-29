@@ -1,2 +1,5 @@
-# PortFolio-Website
-This repository contains the source code for my personal portfolio website, built using HTML, CSS, and JavaScript. The website serves as a digital resume, highlighting my skills, projects, and accomplishments in web development.
+- Responsive Design – The website is fully optimized to adapt to different screen sizes, ensuring accessibility across various devices.
+- Project Showcase – Highlights key projects, including descriptions and links to source code or live demonstrations.
+- Interactive UI Components – JavaScript-driven elements provide dynamic functionality and enhance user engagement.
+- Contact Section – Includes options for visitors to connect via email or social media.
+- Optimized Performance – Ensures fast loading times through efficient resource management.
